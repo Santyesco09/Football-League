@@ -1,4 +1,4 @@
-package com.league.leagueaprendiendo.controller;
+package com.league.leagueaprendiendo.first_test;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
