@@ -1,4 +1,4 @@
-package com.league.leagueaprendiendo.controllers;
+package com.league.leagueaprendiendo.controllers_learning_spring;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
